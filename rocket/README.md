@@ -1,4 +1,5 @@
-# Local outlier factor (LOF)
+# Rocket
+# README IS NOT UP TO DATE!
 
 |||
 | :--- | :--- |
